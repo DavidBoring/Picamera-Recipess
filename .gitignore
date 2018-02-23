@@ -1,0 +1,5 @@
+*.py
+!PicameraRecipes.py
+info.txt
+Movies/*
+Nachtaufnahmen/*
