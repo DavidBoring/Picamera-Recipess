@@ -1,5 +1,5 @@
 # Picamera Zeitraffer-Aufnahmen  :movie_camera:
-[Zeitraffer Gif](PiZeitraffer.gif)
+![Zeitraffer Gif](PiZeitraffer.gif "Zeitraffer Gif")
 ## :squirrel: Was macht dieses Programm ?
  Mit dem Programm lassen sich mit dem Raspberry Pi und dem Kamera-Modul einfach Zeitrafferaufnamen erstellen. Der Code basiert weitesgehend auf der offiziellen Dokumentation des Kamera-Moduls [Picamera Docs](https://picamera.readthedocs.io/)
 
